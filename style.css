@@ -1,0 +1,79 @@
+header{
+    background-color: blue;
+}
+header#nav{
+    width: 100%;
+    padding:20px 0 80px 0;
+   
+}
+
+ #navbar ul{
+    float: right;
+    margin-top: 10px;
+    list-style: none;
+    margin-right: 100px;
+}
+ #navbar li{
+     margin: 30px 40px 0 0;
+     color: white;
+     font-size: 20px;
+    display: inline-flex;
+    font-family:url(https://fonts.google.com/specimen/Raleway);
+}
+ #navbar a{
+     
+     color: white;
+     
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+tr, th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+div{
+    margin:20px 0 10px 80px;
+}
+label{
+    font-size:20px;
+   padding-bottom:10px;
+   font-weight:bolder;
+}
+input{
+    width:300px;
+    height:40px;
+    font-size:20px;
+    border-radius:10px;
+}
+select{
+    width:300px;
+    height:40px;
+    font-size:20px;
+    border-radius:10px;
+    }
+     #submit{
+       width:200px;
+       height:40px;
+       font-size:20px;
+       margin-left:40px;
+       background:blue;
+       border-radius:10px;
+       color:white;
+    }
+    form{
+        border:2px solid #96949121;
+        width:500px;
+        margin-left:60px;
+        background:#96949121;
+    }
+    h1{
+        margin-left:200px;
+        color:green;
+    }
+    p{
+        margin-left:50px;
+    }
